@@ -1,23 +1,20 @@
 {
-  "name": "todomvc-app-css",
+  "name": "ziggy-app-css",
   "style": "index.css",
-  "version": "2.0.6",
-  "description": "CSS for TodoMVC apps",
+  "version": "0.0.1",
+  "description": "CSS for Ziggy app",
   "license": "CC-BY-4.0",
-  "repository": "tastejs/todomvc-app-css",
+  "repository": "gevorg-aznauryan/ziggy-app-css",
   "author": {
-    "name": "Sindre Sorhus",
-    "email": "sindresorhus@gmail.com",
-    "url": "sindresorhus.com"
+    "name": "Gevorg Aznauryan",
+    "email": "gazilius@gmail.com",
   },
   "files": [
     "index.css"
   ],
   "keywords": [
-    "todomvc",
-    "tastejs",
+    "ziggy",
     "app",
-    "todo",
     "template",
     "css",
     "style",
